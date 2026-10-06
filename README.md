@@ -1,19 +1,13 @@
-# AI-ML-and-GEN-AI-Track-Project-Template
-
-## Repository Structure
-
-1.Brainstorming & Ideation
-
-2.Requirement Analysis
-
-3.Project Design Phase
-
-4.Project Planning Phase
-
-5.Project Development Phase
-
-6.Project Testing
-
-7.Project Documentation
-
-8.Project Demonstration
+# Phase 1 — Brainstorming & Ideation
+## Problem
+People often have a fixed budget but struggle to allocate it across purchases/events and to identify suitable recommendations.
+## Solution
+PocketSmart AI accepts a budget, category and preferences and returns a structured spending plan with recommendations.
+## Core modules
+- Home Interior Planner
+- Party/Event Planner
+- Jewelry Planner
+- Recommendation History
+- User registration/login
+## Innovation
+Combines budget allocation with generative-AI recommendations and optional image-aware jewelry planning.
